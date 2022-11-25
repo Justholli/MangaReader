@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468435484895",
+    "project_id": "manga-reader-41e27",
+    "storage_bucket": "manga-reader-41e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468435484895:android:60a079a58f3a8106b9a96a",
+        "android_client_info": {
+          "package_name": "com.jh.mangareader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468435484895-d578rruvsrluqmkadf4p0qorndr0q67v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-s1Nk1YXQ9wOZB0m51wiUDfhTVnrXdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468435484895-d578rruvsrluqmkadf4p0qorndr0q67v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
